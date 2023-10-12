@@ -105,7 +105,7 @@ var model = {
             }
         } 
         view.displayMiss(guess);
-        view.displayMessage("You missed!");
+        view.displayMessage("HA! You missed!");
         
         return false;
     } ,
@@ -128,14 +128,14 @@ function parseGuess(guess){
             var alphabet = ["A", "B", "C", "D", "E", "F", "G"]
 
             if (guess ===null || guess.length !== 2){
-                alert("Choose a letter and number that are actually on the board, goofy.");
+                alert("Enter a valid coordination.");
             } else {
                 var firstChar = guess.charAt(0);
                 var row = alphabet.indexOf(firstChar);
                 var column = guess.charAt(1);
 
                 if (isNaN(row) || isNaN(column)) {
-                    alert("Enter valid coordinations");
+                    alert("Enter a valid coordination");
                 } else if (row < 0  || row >=model.boardSize || column < 0 || column >=model.boardSize) {
                     alert("Is that even on the board? ");
                 } else {
