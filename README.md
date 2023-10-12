@@ -20,9 +20,8 @@ The objective of the game is to sink all of your opponent's battleships. You can
 Have fun and enjoy the classic Battleship experience!
 
 ## Features
-Classic Battleship gameplay.
 Simple and intuitive user interface.
-Hours of fun and strategic gameplay.
+Fun and strategic gameplay.
 
 
 Contact
