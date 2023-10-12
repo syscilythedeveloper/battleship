@@ -15,7 +15,7 @@ Welcome to the classic Battleship game, implemented with HTML, CSS, and JavaScri
 Once you have cloned the repository, navigate to the project directory and open the battleship.html file in your preferred web browser.
 
 ## Gameplay
-The objective of the game is to sink all of your opponent's battleships before they sink yours. You can do this by entering grid cells to guess the location of your opponent's ships. The game will provide feedback on whether your guess was a hit or a miss.
+The objective of the game is to sink all of your opponent's battleships. You can do this by entering grid cells to guess the location of your opponent's ships. The game will provide feedback on whether your guess was a hit or a miss.
 
 Have fun and enjoy the classic Battleship experience!
 
