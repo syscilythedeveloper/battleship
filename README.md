@@ -9,7 +9,7 @@ Welcome to the classic Battleship game, implemented with HTML, CSS, and JavaScri
    Clone this repository to your local machine using Git. You can do this by running the following command in your terminal:
 
    ```shell
-   git clone https://github.com/your-username/battleship.git
+   git clone https://github.com/syscilythedeveloper/battleship.git
    
 ## Open the Game:
 Once you have cloned the repository, navigate to the project directory and open the battleship.html file in your preferred web browser.
